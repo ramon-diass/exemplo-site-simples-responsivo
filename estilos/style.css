@@ -29,7 +29,6 @@ header h1{
 }
 
 #burguer:hover{
-    background-color: white;
     color: black;
 }
 
@@ -49,10 +48,6 @@ menu a{
     background-color: rgb(65, 65, 65);
     color: white;
     border-top: 2px solid gray;
-}
-
-menu a:hover{
-    background-color: rgb(0, 0, 0);
 }
 
 main{
